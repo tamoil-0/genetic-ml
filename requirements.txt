@@ -1,0 +1,13 @@
+# Core scientific stack
+numpy
+pandas
+scikit-learn
+matplotlib
+joblib
+jupyter
+
+# GA libraries (FS usa DEAP; HPO puede ser sin framework; mantener por compatibilidad)
+deap
+
+# Neuroevolution (Keras/TensorFlow)
+tensorflow>=2.12
